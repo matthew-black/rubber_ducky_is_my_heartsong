@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  padding-top: 25px;
+  background-color: #444;
+}
+
+h1 {
+  color: red;
+}
+
+.hide-this {
+  visibility: hidden;
+}
+
+#the-duck-zone {
+  margin-top: 25px;
+}
